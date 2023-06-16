@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(228, 67, 67);
+}
+
+title {
+    color: rgb(56, 56, 161);
+}
+
+p {
+    color:aqua;
+    font-size: 35px;
+}
+
+td {
+    font-size:25px; 
+    color:white;
+}
+
+button {
+    background-color: aqua; 
+    margin-top: 10px; 
+    font-size: 15px;
+}
+
+h2 {
+    color:black;
+}
+
+#unloginBtn {
+    color:white;
+    background-color:red;
+}
+
+#tablezakaz {
+    font-size: 30px;
+    color: black;
+}
+
+#tdAdmin {
+    font-size: 25px;
+    color: black;
+}
+
+#tdBD {
+    font-size: 25px;
+    color: white;
+}
